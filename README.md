@@ -1,4 +1,5 @@
 # Somedialog
+[![pub package](https://img.shields.io/pub/v/somedialog.svg)](https://pub.dev/packages/somedialog#-readme-tab-)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 [![support](https://img.shields.io/badge/platform-flutter%7Cflutter%20web-ff69b4.svg?style=flat-square)](https://github.com/agryva/Somedialog)
 
@@ -51,3 +52,17 @@ FlatButton(
 | Lottie
 | Network
 | Asset
+
+
+## Parameters
+| parameter                   | types           | defaultValues                                                                                                     |
+| :---------------------- | :-------------: | :---------------------------------------------------------------------------------------------------------------: |
+| buttonConfig        | `buttonConfig`        | ButtonConfig() |
+| path        | `string`        |  |
+| title        | `string`        |  |
+| content        | `string`        |  |
+| dialogHeight        | `double`        | 310 |
+| imageHeight        | `double`        | 150 |
+| imageWidth        | `double`        | 150 |
+| submit        | `Function`        |  |
+| mode| `SomeMode`     |  |

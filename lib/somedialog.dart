@@ -163,7 +163,8 @@ class SomeDialog {
                                             style: GoogleFonts.lato(
                                               fontSize: 13,
                                               fontWeight: FontWeight.bold,
-                                              color: buttonConfig.labelCancelColor,
+                                              color:
+                                                  buttonConfig.labelCancelColor,
                                             ),
                                           ),
                                         ),
@@ -188,7 +189,8 @@ class SomeDialog {
                                             style: GoogleFonts.lato(
                                               fontSize: 13,
                                               fontWeight: FontWeight.bold,
-                                              color: buttonConfig.labelDoneColor,
+                                              color:
+                                                  buttonConfig.labelDoneColor,
                                             ),
                                           ),
                                         ),
