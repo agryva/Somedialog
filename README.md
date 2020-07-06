@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 [![support](https://img.shields.io/badge/platform-flutter%7Cflutter%20web-ff69b4.svg?style=flat-square)](https://github.com/agryva/Somedialog)
 
-Flutter package for handle a nice dialog ui
+Flutter package for handle a nice dialog ui using assets, netwok, and lottie image
 
 ## Help Maintenance
 I've taken the time to make this library, help support to develop it or buy me coffee and snacks to be even more enthusiastic
@@ -65,4 +65,4 @@ FlatButton(
 | imageHeight        | `double`        | 150 |
 | imageWidth        | `double`        | 150 |
 | submit        | `Function`        |  |
-| mode| `SomeMode`     |  |
+| mode| `SomeMode`     | SomeMode.Lottie |
