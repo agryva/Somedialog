@@ -52,7 +52,6 @@ class _MyHomePageState extends State<MyHomePage> {
                       "Please before tracking, double-check the code you entered!",
                   title: "Are you sure ?",
                   submit: () {
-
                   }
                 );
               },
